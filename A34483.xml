@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppy of a letter sent by the burga-masters and Councel of Amsterdam to the rest of the city's that have their session in the Assembly of the States of Holland and West-Frezland</title>
+            <author>Amsterdam (Netherlands). Raad.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34483</idno>
+            <idno type="STC">Wing C6135</idno>
+            <idno type="STC">ESTC R20605</idno>
+            <idno type="EEBO-CITATION">12403163</idno>
+            <idno type="OCLC">ocm 12403163</idno>
+            <idno type="VID">61325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 274:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppy of a letter sent by the burga-masters and Councel of Amsterdam to the rest of the city's that have their session in the Assembly of the States of Holland and West-Frezland</title>
+                  <author>Amsterdam (Netherlands). Raad.</author>
+                  <author>Friesland (Netherlands). Provinciale Staten.</author>
+                  <author>Holland (Netherlands : Province). Staten.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Rotterdam ... by Peter Martin, and reprinted in London by J. Millet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Feb. 19, 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On a dispute as to the conduct of the deputies from Amsterdam in the States-Provincial.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61325:1" rendition="simple:additions"/>
+            <head>A Coppy of a LETTER Sent by the <hi>Burga-Maſters</hi> and <hi>Councel</hi> OF AMSTERDAM, To the reſt of the CITY's that have their Seſſion IN THE <hi>ASSEMBLY</hi> of the <hi>STATES</hi> OF Holland <hi>and</hi> Weſt-Frezland.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <hi>WE</hi> have Underſtood by the Report of Our <hi>DEP<g ref="char:V">Ʋ</g>TIES</hi> that Aſſiſted in Our States-Provincial, the 10th <hi>Ditto,</hi> with great amazement, How that the ſame Day, by Order only of the Pentionaries of <hi>Holland,</hi> without the uſual putting it to the Queſtion, that the doors of the ſaid Aſſembly were comand<g ref="char:EOLhyphen"/>ed to be ſhut, as alſo the anti-Chamber belonging to the States-Provincial, with an Injunction that no Man might be ſuffered to go out; and that at the deſire of the Prince of <hi>Orange,</hi> Two of our Depu<g ref="char:EOLhyphen"/>ties, the <hi>Heer Gerrard Hoofe</hi> one of the Councel of this City, and the <hi>Hier Hop</hi> our Pentionary, left their Seats and went into the ſaid ante-Chamber, for that it was pretended that this Affair did con<g ref="char:EOLhyphen"/>cern them in particular as well as others: After which, the Prince of <hi>Orange</hi> laid before the States-Provincial, That the Marqueſs <hi>D' Grana</hi> haveing intercepted ſeveral Letters from the <hi>French</hi> Am<g ref="char:EOLhyphen"/>baſſador at the <hi>Hague</hi> to the King his Maſter, bear<g ref="char:EOLhyphen"/>ing date the 9th of <hi>January</hi> laſt, which he had ſent to him, containing (as 'tis ſaid) a circumſtantial relation of ſome private correſpondency betwixt the ſaid Ambaſſadour and us; of which the ſaid Prince of <hi>Orange</hi> thought himſelf oblieged to give them the ſaid States an accompt thereof, and that accordingly the ſaid Letters were read in the Aſ<g ref="char:EOLhyphen"/>ſembly of the States by the ſaid Pentionaries of <hi>Hol<g ref="char:EOLhyphen"/>land;</hi> and that the ſaid Prince of <hi>Orange</hi> did ſup<g ref="char:EOLhyphen"/>poſe that the Two before-named, our Deputies, were much concerned in this Correſpondency, and did not know whether they had Orders ſo to do, or not. This matter being under debate, our Two Deputies, which before had quitted their places, came in and took poſſeſſion thereof again, and en<g ref="char:EOLhyphen"/>deavours were uſed to cauſe them to depart into the ante-Chamber again; but our aforeſaid Depu<g ref="char:EOLhyphen"/>ties did not look upon themſelves as oblieged to do what they required, eſpecially for that they had done nothing but by Vertue of Order; However the States-Provincial thought good that Coppies of the ſaid Letters ſhould be ſent to the Knights, Gentlemen, Burghermaſters and Common-Coun<g ref="char:EOLhyphen"/>cels of the reſpective Cities, to have their Advice what was moſt convenient to be done concerning this Affair, which fills us with no ſmall amazement that a beginning ſhould be made of a Criminal Pro<g ref="char:EOLhyphen"/>ceſs againſt ſo juſt and upright Members of the States, notwithſtanding their earneſt oppoſition, and they proffered to purge themſelves againſt all that could be laid to their charge, drawn from the aforeſaid Letters by erronious conſtructions. Notwithſtanding all which, our Papers, and thoſe of our Pentionaries, were Sealed up by Two of the Members of the States, as alſo by the Secre<g ref="char:EOLhyphen"/>tary <hi>Beamount,</hi> and laid aſide till after a Commu<g ref="char:EOLhyphen"/>nication of the aforeſaid Letters to their Princi<g ref="char:EOLhyphen"/>ples, it ſhould be concluded whether the ſaid Pa<g ref="char:EOLhyphen"/>per ſhould be Examined or no. When We begin to reflect on the one ſide, That the Charge of an Unlawful Correſpondency betwixt the <hi>French</hi>-Ambaſſador and us, comes ſimply, and only to ap<g ref="char:EOLhyphen"/>pear out of the aforeſaid intercepted Letters to the King his Maſter, and ſo falling into the hands of a Forreign Miniſter, and only as it agrees with his apprehenſions and conſtructions, the Letters being in Cyphers, which we know not whether they be truly uncyphered and have their true ſence or no: and reflecting on the other ſide, that this is the Foundation of all theſe ſevere Proceedings; as firſt, In the locking of the Doors of the Aſſembly of the States Provincial in an unuſual manner, and that by the Order only of the Pentionary of <hi>Holland,</hi> and then in their ſevere handling of our a<g ref="char:EOLhyphen"/>foreſaid two Deputies, who are not ſo much as mentioned in the Letters intercepted by the Mar<g ref="char:EOLhyphen"/>quiſs <hi>D' Grana;</hi> and who not only immediately proffered to move, as the truth is, not ſo much as
+<pb facs="tcp:61325:2"/> to have ſpoken with the ſaid French Ambaſſador, but by our Order; but alſo to diſprove what was moſt abuſively laid to their Charge by the Penti<g ref="char:EOLhyphen"/>onaries of <hi>Holland,</hi> as that they the ſame day that the ſaid Letters were ſent away for <hi>France</hi> by the French Ambaſſador, had not been at his houſe, ma<g ref="char:EOLhyphen"/>king it plainly appear, the one that he was indiſ<g ref="char:EOLhyphen"/>poſed, and the other, that, that day he had not been out of his Lodgings at the <hi>Hague.</hi>
+            </p>
+            <p>We do exceedingly wonder, that notwithſtand<g ref="char:EOLhyphen"/>ing all this, it ſhould be thought good to ſeal up our Papers, and to proceed with ſuch Extravagan<g ref="char:EOLhyphen"/>cies; precipitating ſuch Reports both within and without this Country, as tends to the diminiſhing and diſhonouring of this City, againſt the illitera<g ref="char:EOLhyphen"/>ted Sollicitations of our Deputies: That the ſaid Letters might be read again in their hearing, they being in the Anti-chamber while they were read before the States Provintial, promiſing to make a Cathegorick Anſwer to the ſame, which then with<g ref="char:EOLhyphen"/>out queſtion, they would have forborn ſealing up our Papers, and their innocency appearing, they would have deſiſted from thoſe ſo ſtrange proceed<g ref="char:EOLhyphen"/>ings; or at leaſt would have ſhewed ſo much Wiſ<g ref="char:EOLhyphen"/>dom and Diſcretion, as not to have ſent away a Charge to all the Councels and Cities, until they had heard what could be ſaid in our Defence.</p>
+            <p>We deſire alſo your Honors to conſider how much we are concerned for the ſecurity of our Deputies in Reſpect to their Perſons; as alſo of their Papers, according to the Juſtice of this Coun<g ref="char:EOLhyphen"/>try, and the Reſolutions relating to that Affair; for which Reaſons we cannot forbear but be high<g ref="char:EOLhyphen"/>ly concerned, and be heartily ſorry, and the more when we conſider that thoſe Proceedings againſt ſuch Upright and Faithful Members of the State, are not only againſt all Forms of Juſtice and Pru<g ref="char:EOLhyphen"/>dence, but alſo againſt the Honor, Freedom, and Security, that belongs to the Members Compoſing that Aſſembly. And then conſidering what ill Con<g ref="char:EOLhyphen"/>ſequences may be the Effects, that the aforeſaid Charge is only drawn out of Intercepted Letters from the Ambaſſador of <hi>France</hi> to the King his Maſter. And we cannot Apprehend but with great ſorrow and trouble of mind, the great Miſ<g ref="char:EOLhyphen"/>chiefs and Difficulties that might fall upon this State, by thoſe Commotions that may be raiſed within us by ſuch Scandals as theſe are, and at a time wherein all the Members ought to be equally Zealous by the Extending and Uniting of their Underſtandings with all the care imaginable, to conclude what may be good for Chriſtendome in general, and for this State in particular, and for the preventing of a dangerous War; concerning which, we can Call God for our Witneſs, that all our Conducts and Advices have tended to the ſame purpoſe. There is nothing troubles us leſs, as the making our Innocency appear to the aforeſaid Charge, and we ſhall make the ſame plainly appear to your Honors, when the ſaid Letters of the ſaid <hi>French Ambaſſador</hi> ſhall come to our hands; And in the mean time we de<g ref="char:EOLhyphen"/>ſire your Honors for your own advantage to conſi<g ref="char:EOLhyphen"/>der thoſe miſchievous Conſequences that may at<g ref="char:EOLhyphen"/>tend the Aſſembly of your Honors and every Mem<g ref="char:EOLhyphen"/>ber thereof, if any Reſolution ſhould be taken not founded upon good Reaſon, Order, and Polity. And therefore that you would be pleaſed for to ſtay for our Information after we have received the Letters from the ſaid Ambaſſador, before that you would come to any Reſolution to our preju<g ref="char:EOLhyphen"/>dice, or to the prejudice of the Rights of this Coun<g ref="char:EOLhyphen"/>try, and of every Member thereof in particular; we aſſuring you that we will not be wanting on our parts in any thing relating to this Affair.—<hi>But,</hi> b f re we conclude this Matter, we cannot paſs by without great admiration, that it appears to us by the Advices from ſeveral Members of the States, that the Sealing of the Papers of the <hi>Heer Hopour</hi> Pentionary in particular ought not to have been done, for that the ſaid Pentionary from time to time, received Letters from the <hi>Heer Pan Bu<g ref="char:EOLhyphen"/>ningham,</hi> preſent <hi>Burgermaſter</hi> of this City, for it cannot be imagined, neither is there any reaſon of Suſpition of any Crime or Miſdemeanour, that a preſent <hi>Burgermaſter</hi> ſhould Write to a <hi>Miniſter</hi> in the <hi>Hague,</hi> And that in all Juſtice a Man ought to be lookt upon a very Criminal, before that at a Corro<g ref="char:EOLhyphen"/>ſpondency with him ſhould be the Cauſe of ſieizing of Papers in the Poſſeſſion of any Man; eſpecially in the Hands of Deputies at their places Aſſigned. This Letter being ended, there is come to our Hands a Coppy of the aforeſaid Intercepted Let<g ref="char:EOLhyphen"/>ters from the <hi>French Ambaſſador,</hi> which we cannot paſs over without ſome ſuddain Remarks.</p>
+            <p>As firſt, That it ſeems to be but an Extract of a Letter and not the whole, in regard there is not only Words left out, but Words put in, which could not be well omitted to make up the Sence; As alſo in the ſaid Extract, there was left a great many Varancies, which plainly ſhews, That the <hi>Marquiſs d'Grana</hi> hath not ſent the full Contents of the ſaid Letter. And therefore, before a true Judgment be Conformed of this Affair, or that we ſhould give a thorow ſatisfaction in the Thing de<g ref="char:EOLhyphen"/>manded; it muſt be known, That the Principal Contents of the ſaid Letters were, That we have done our Endeavours to make known to the States, and to bring before them as a Matter of Delibera<g ref="char:EOLhyphen"/>tion, what the ſaid Ambaſſador of <hi>France</hi> made known to us in particular, and what we made as the firſt overture in <hi>December,</hi> which was Com<g ref="char:EOLhyphen"/>municated to our Deputies, and immediately alſo to the Pentionary of <hi>Holland,</hi> and ſeveral other of the Members. And in regard it tended to no other End, then to move the <hi>Spaniards</hi> to a ſpeedy Ac<g ref="char:EOLhyphen"/>commodation of their Differences with <hi>France,</hi> for the ſecurity of the <hi>Spaniſh Neitherlands,</hi> and for the ſquenching that Fire of War which was already broken into a Flame, which never appeared to us to be otherwiſe then ſerviceable and acceptable in<g ref="char:EOLhyphen"/>to the Members of the States, that it had given them Occaſion to Deliberate on that Affair. O<g ref="char:EOLhyphen"/>ther Matters contained in the Letter, are Affairs without our Knowledge.</p>
+            <p>As for our ſelves, we have been ſo far from holding any particular Correſpondency in making any Engagements or Promiſes to the ſaid Ambaſſa<g ref="char:EOLhyphen"/>dor of <hi>France,</hi> that our Care and Circumſpection will appear to be ſuch, that it were heartily to be wiſhed, that the like were obſerved by all thoſe that bare a part in our Government.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Rotterdam, Feb.</hi> 19. 1684. New Stile, by <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter Martin,</hi> and Reprinted in <hi>London</hi> by <hi>J. Millet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
